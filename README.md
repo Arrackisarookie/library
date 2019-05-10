@@ -1,5 +1,4 @@
-#
-![logo](https://github.com/Arrackisarookie/library/blob/master/images/logo.PNG)
+# library
 ![index](https://github.com/Arrackisarookie/library/blob/master/images/index.PNG)
 ![list](https://github.com/Arrackisarookie/library/blob/master/images/list.PNG)
 ![detail](https://github.com/Arrackisarookie/library/blob/master/images/detail.PNG)
