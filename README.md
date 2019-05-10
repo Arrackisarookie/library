@@ -1,27 +1,29 @@
-# Library
-
+#
 ![logo](https://github.com/Arrackisarookie/library/blob/master/images/logo.PNG)
+![index](https://github.com/Arrackisarookie/library/blob/master/images/index.PNG)
+![list](https://github.com/Arrackisarookie/library/blob/master/images/list.PNG)
+![detail](https://github.com/Arrackisarookie/library/blob/master/images/detail.PNG)
+![admin](https://github.com/Arrackisarookie/library/blob/master/images/admin.PNG)
+![update](https://github.com/Arrackisarookie/library/blob/master/images/update.PNG)
 
 ## 建库
 
-**！ 确保数据库中没有名为 library 的账户          ！**
-**！ 若有名为 library 的数据库，确保其中数据已备份 ！**
+** 确保数据库中没有名为 library 的账户          **
+** 若有名为 library 的数据库，确保其中数据已备份 **
 
 - 以 root 身份登录 phpadmin，导入 sql 文件夹中的 userCreated.sql
-- 退出 root 身份，以
+- 退出 root 身份
+- 更换为以下身份登录 phpadmin
    - 用户名: library
    - 密码: lib
-身份登录 phpadmin
-
-- 依次导入 tb_bibliography.sql, tb_book, tb_user, tb_role, tb_reserve, trigger.sql。
-
-- 查看 library 数据库信息导入情况。
+- 依次导入 tb_bibliography.sql, tb_book, tb_user, tb_role, tb_reserve, trigger.sql
+- 查看 library 数据库信息导入情况
 
 
 
 ## 浏览
 
-**！ 确保已打开 wamp ！**
+** 确保已打开 wamp **
 
 - 浏览器地址栏输入 localhost/library 进入主页
 
@@ -29,7 +31,7 @@
 
 ## 网站用户身份
 
-**！ 与上述数据库身份无关 ！**
+** 与上述数据库身份无关 **
 
 - 管理员：
    - 用户名： 000000000
@@ -39,7 +41,7 @@
    - 密码为学号后六位，如：
    - 用户名： 160101310
    - 密码  ： 101310
-*ps: 用户名是学号，而非用户姓名*
+- *ps: 用户名是学号，而非用户姓名*
 
 
 
