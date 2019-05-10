@@ -45,7 +45,7 @@
 				setcookie(session_name(), '', time()-1, $params['path'], $params['domain'], $params['secure'], $params['httponly']);
 			}
 			session_destroy();
-			header('location: /library2');
+			header('location: /library');
 			break;
 		default:
 			break;
