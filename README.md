@@ -1,6 +1,6 @@
 # Library
 
-![logo](https://github.com/Arrackisarookie/library/images/logo.PNG)
+![logo](https://github.com/Arrackisarookie/library/blob/master/images/logo.PNG)
 
 ## 建库
 
