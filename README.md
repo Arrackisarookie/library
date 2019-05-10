@@ -1,10 +1,11 @@
 # library
 
 ## 简介
-	无框架，简易本地图书管理系统。
-	PHP，MySQL，JavaScript，CSS，HTML
-	管理页面由 [Ela Admin](https://github.com/puikinsh/ElaAdmin) 模板改造。
-	可实现身份登录，用户查书借书还书，管理员增删改书目书本用户。
+- 无框架，简易本地图书管理系统。
+- PHP，MySQL，JavaScript，CSS，HTML
+- 管理页面由 [Ela Admin](https://github.com/puikinsh/ElaAdmin) 模板改造。
+- 可实现身份登录，用户查书借书还书，管理员增删改书目书本用户。
+
 ## 展示
 ### 首页	
 ![index](https://github.com/Arrackisarookie/library/blob/master/images/index.PNG)
